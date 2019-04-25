@@ -4,7 +4,7 @@ This is the latest vue-cli 3 docker image based on latest nodejs.
 Clone the repo and use docker-compose to set things up. Run
 ```bash
 git clone https://github.com/lontaixanh97/docker-vue-personar
-cd vue-cli-docker
+cd docker-vue-personar
 docker-compose up
 
 ```
